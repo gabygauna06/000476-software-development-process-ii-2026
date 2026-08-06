@@ -19,19 +19,6 @@ This repository is used to organize and preserve the academic material provided 
 
 > The currently available official syllabus identifies itself as academic year 2025. It is preserved as provided by the course and remains the current official syllabus until a newer version is made available.
 
-## Course Objectives
-
-According to the official syllabus, the course aims to develop the ability to:
-
-- identify the different areas of software design and understand their relevance within the software development process
-- identify architectural models according to the nature of the software being designed
-- understand design patterns as mechanisms for improving software quality
-- construct diagrams and models using the modeling techniques and tools covered in the course
-- develop software solution proposals that satisfy quality attributes through the application of design patterns
-- work effectively in teams
-- communicate effectively
-- act with professional ethics and responsibility
-
 ## Course Topics
 
 The official syllabus organizes the course into five main topics:
@@ -48,9 +35,12 @@ The repository is built progressively as actual course material becomes availabl
 
 Current structure:
 
-- `official-documents/`: official documentation related to the course
+- `official-documents/`: official and administrative documentation related to the course
+- `theory/`: theoretical material organized according to the official course topics
+- `practice/`: practical activities and applied course work
+- `references/`: external academic and technical reference material used during the course
 
-Additional sections will only be created when actual material provided during the course requires them.
+Additional sections will only be created when actual course material requires them.
 
 ## Organization Conventions
 
@@ -62,13 +52,20 @@ The repository follows these conventions:
 - files are classified according to their actual purpose and origin
 - directories are created only when real material justifies their existence
 - relevant sections include documentation in English and Spanish
+- theoretical material is organized according to the official course structure
+- practical activities remain separate from their external reference material
 - the repository structure evolves together with the course instead of anticipating unused directories
 
 ## Current Status
 
-The repository is currently in its initial stage.
+The repository currently contains:
 
-The official course syllabus is the first academic document incorporated into the repository. Additional material will be organized progressively as it becomes available.
+- official course documentation
+- Class 1 theoretical material for Unit 01 — Software Design
+- Activity 01 — Paper Analysis
+- the scientific paper assigned as reference material for Activity 01
+
+Additional material will be organized progressively as it becomes available.
 
 ## Academic Use
 

@@ -19,19 +19,6 @@ Este repositorio se utiliza para organizar y conservar el material académico pr
 
 > El programa oficial disponible actualmente se identifica internamente como correspondiente al año académico 2025. Se conserva tal como fue proporcionado por la cátedra y se mantiene como programa oficial vigente hasta que se publique una versión posterior.
 
-## Objetivos de la Materia
-
-De acuerdo con el programa oficial, la materia busca desarrollar la capacidad para:
-
-- identificar las diferentes áreas del diseño de software y comprender su relevancia dentro del proceso de desarrollo
-- identificar modelos arquitectónicos según la naturaleza del software que se necesita diseñar
-- valorar los patrones de diseño como mecanismos para mejorar la calidad del software
-- construir diagramas y modelos aplicando las técnicas y herramientas de modelado estudiadas
-- desarrollar propuestas de soluciones de software que cumplan con atributos de calidad mediante la aplicación de patrones de diseño
-- desempeñarse efectivamente en equipos de trabajo
-- desarrollar capacidades de comunicación efectiva
-- actuar con ética y responsabilidad profesional
-
 ## Temas de la Materia
 
 El programa oficial organiza la asignatura en cinco temas principales:
@@ -48,7 +35,10 @@ El repositorio se construye progresivamente a medida que aparece material real d
 
 Estructura actual:
 
-- `official-documents/`: documentación oficial relacionada con la materia
+- `official-documents/`: documentación oficial y administrativa relacionada con la materia
+- `theory/`: material teórico organizado de acuerdo con los temas oficiales de la asignatura
+- `practice/`: actividades prácticas y trabajos aplicados de la materia
+- `references/`: material académico y técnico externo utilizado como referencia
 
 Las demás secciones se crearán únicamente cuando el material proporcionado durante la cursada justifique su existencia.
 
@@ -62,13 +52,20 @@ El repositorio mantiene las siguientes convenciones:
 - los archivos se clasifican según su propósito y procedencia reales
 - solo se crean directorios cuando existe material que justifica su utilización
 - las secciones relevantes mantienen documentación en inglés y español
+- el material teórico se organiza según la estructura oficial de la materia
+- las actividades prácticas se mantienen separadas de sus referencias académicas externas
 - la estructura evoluciona junto con la cursada en lugar de anticipar directorios que podrían no utilizarse
 
 ## Estado Actual
 
-El repositorio se encuentra actualmente en su etapa inicial.
+El repositorio contiene actualmente:
 
-El programa oficial es el primer documento académico incorporado. El resto del material se organizará progresivamente a medida que sea proporcionado durante la cursada.
+- documentación oficial de la materia
+- material teórico de la Clase 1 correspondiente a la Unidad 01 — Diseño de Software
+- Actividad 01 — Análisis de Paper
+- el paper científico asignado como referencia para la Actividad 01
+
+El material adicional se organizará progresivamente a medida que sea proporcionado durante la cursada.
 
 ## Uso Académico
 
