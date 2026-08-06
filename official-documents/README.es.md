@@ -1,30 +1,36 @@
 # Documentos Oficiales
 
-Documentación oficial relacionada con Procesos de Desarrollo de Software II.
+Documentación oficial y administrativa relacionada con Procesos de Desarrollo de Software II.
 
-Esta sección contiene documentos formales proporcionados por la cátedra que definen, organizan o regulan el desarrollo académico de la materia.
+Esta sección separa la documentación general de la materia de los registros personales del alumno para mantener el repositorio ordenado y con una estructura profesional.
 
 [English version](README.md)
 
 ## Estructura Actual
 
 - `course-documents/`: documentación oficial general aplicable a la materia
+- `personal-records/`: registros personales o administrativos del alumno relacionados con la materia
 
 ## Contenido Actual
 
-La documentación oficial disponible actualmente está compuesta por el programa de la materia.
+La documentación oficial disponible actualmente incluye:
+
+- el programa oficial de la materia
+- el cronograma oficial de cursado
+
+La sección de registros personales está reservada para documentación administrativa relacionada específicamente con la participación del alumno en la materia.
 
 ## Criterio de Uso
 
-Esta sección está reservada para documentación formal de la cátedra.
+Esta sección debe contener únicamente documentación académica o administrativa formal.
 
-Cuando efectivamente sean proporcionados, pueden almacenarse aquí documentos como:
+No debe contener:
 
-- documentos oficiales de la materia
-- cronogramas de cursado
-- lineamientos institucionales
-- instrucciones académicas generales
-
-El material teórico, las actividades prácticas, el trabajo realizado por el alumno, el material de evaluaciones y las referencias externas no deben almacenarse en esta sección.
+- material teórico de clases
+- actividades prácticas
+- ejercicios resueltos
+- material de evaluaciones
+- apuntes personales de estudio
+- bibliografía o material externo de referencia
 
 Solo deben crearse nuevos subdirectorios cuando exista documentación real que requiera una categoría diferente.

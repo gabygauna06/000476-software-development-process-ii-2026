@@ -1,30 +1,36 @@
 # Official Documents
 
-Official documentation related to Software Development Process II.
+Official and administrative documentation related to Software Development Process II.
 
-This section contains formal documents provided by the course that define, organize, or regulate its academic development.
+This section separates general course documentation from personal student records in order to keep the repository organized and professionally structured.
 
 [Versión en español](README.es.md)
 
 ## Current Structure
 
 - `course-documents/`: general official documentation applicable to the course
+- `personal-records/`: personal or administrative student records related to the course
 
 ## Current Contents
 
-The official documentation currently available consists of the course syllabus.
+The official documentation currently includes:
+
+- the official course syllabus
+- the official course schedule
+
+The personal records section is reserved for administrative documentation related specifically to the student's participation in the course.
 
 ## Usage Criterion
 
-This section is reserved for formal course documentation.
+This section should contain only formal academic or administrative documentation.
 
-Documents stored here may include, when they actually become available:
+It should not contain:
 
-- official course documents
-- course schedules
-- institutional guidelines
-- general academic instructions
-
-Theoretical material, practical activities, student work, examination material, and external references should not be stored here.
+- theoretical class material
+- practical activities
+- solved exercises
+- examination material
+- personal study notes
+- external bibliography or reference material
 
 New subdirectories should only be created when actual documentation requires a distinct category.

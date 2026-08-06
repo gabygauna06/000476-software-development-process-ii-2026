@@ -11,6 +11,7 @@ Este directorio almacena documentos formales proporcionados por la cátedra que 
 ## Contenido Actual
 
 - `course-syllabus.pdf`: programa oficial de la materia disponible actualmente
+- `course-schedule.xlsx`: cronograma oficial correspondiente a la cursada 2026
 
 ## Convenciones de Nombres
 
@@ -19,7 +20,7 @@ Los documentos generales de la materia utilizan nombres estables y descriptivos 
 Las convenciones establecidas incluyen:
 
 - `course-syllabus.pdf`: programa oficial de la materia
-- `course-schedule.pdf`: cronograma oficial de la materia
+- `course-schedule.xlsx`: cronograma oficial de la materia
 
 Los nombres adicionales se definirán únicamente cuando se incorporen nuevos documentos reales.
 
