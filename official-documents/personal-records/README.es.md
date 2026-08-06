@@ -6,22 +6,20 @@ Documentación personal y administrativa relacionada con la participación del a
 
 ## Propósito
 
-Este directorio está reservado para registros administrativos específicos del alumno y no para documentación general de la materia.
+Este directorio almacena registros administrativos específicos del alumno y no documentación general de la materia.
 
-Algunos posibles contenidos son:
+Algunos ejemplos son:
 
 - comprobantes de inscripción
 - confirmaciones administrativas
 - registros personales relacionados con la cursada
 
-## Criterio de Privacidad
+## Contenido Actual
 
-Los documentos personales pueden contener información identificatoria o sensible.
+- `enrollment-receipt-2026-07-30.png`: comprobante de inscripción a la materia correspondiente al año académico 2026
 
-Antes de subir cualquier documento personal a un repositorio público, se debe revisar el archivo y eliminar o censurar toda información personal que no sea necesaria.
+## Criterio de Uso
 
-## Estado Actual
+Este directorio debe contener únicamente documentación personal o administrativa directamente relacionada con la participación del alumno en la materia.
 
-El directorio se creó porque se dispone de un comprobante de inscripción a la materia.
-
-El comprobante original no debería publicarse en el repositorio público mientras contenga identificadores personales innecesarios.
+Los documentos generales de la cátedra deben almacenarse en `../course-documents/`.
