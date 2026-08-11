@@ -12,6 +12,17 @@ This section contains theoretical material used during the course, organized acc
 
 - `unit-01-software-design/`: theoretical material related to Software Design
 
+## Current Progress
+
+The theoretical material currently covers the first official course unit, including:
+
+- introduction to software design
+- software architecture and abstraction levels
+- software quality attributes
+- software design concepts and principles
+- design areas and models
+- criteria and guidelines for good software design
+
 ## Organization Criterion
 
 Theoretical material is organized by official course unit whenever the relationship with the syllabus is clearly established.

@@ -61,7 +61,9 @@ The repository follows these conventions:
 The repository currently contains:
 
 - official course documentation
-- Class 1 theoretical material for Unit 01 — Software Design
+- theoretical material for Unit 01 — Software Design
+- Class 1 material on software design, architecture, abstraction levels, and quality attributes
+- Class 2 material on software design concepts, principles, design models, and quality guidelines
 - Activity 01 — Paper Analysis
 - the scientific paper assigned as reference material for Activity 01
 

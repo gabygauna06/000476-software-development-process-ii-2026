@@ -61,7 +61,9 @@ El repositorio mantiene las siguientes convenciones:
 El repositorio contiene actualmente:
 
 - documentación oficial de la materia
-- material teórico de la Clase 1 correspondiente a la Unidad 01 — Diseño de Software
+- material teórico correspondiente a la Unidad 01 — Diseño de Software
+- material de la Clase 1 sobre diseño de software, arquitectura, niveles de abstracción y atributos de calidad
+- material de la Clase 2 sobre conceptos y principios del diseño, modelos de diseño y lineamientos de calidad
 - Actividad 01 — Análisis de Paper
 - el paper científico asignado como referencia para la Actividad 01
 

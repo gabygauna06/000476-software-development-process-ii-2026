@@ -12,6 +12,17 @@ Esta sección contiene el material teórico utilizado durante la cursada, organi
 
 - `unit-01-software-design/`: material teórico relacionado con Diseño de Software
 
+## Avance Actual
+
+El material teórico disponible actualmente desarrolla la primera unidad oficial de la materia e incluye:
+
+- introducción al diseño de software
+- arquitectura de software y niveles de abstracción
+- atributos de calidad del software
+- conceptos y principios del diseño de software
+- áreas y modelos de diseño
+- criterios y lineamientos para un buen diseño de software
+
 ## Criterio de Organización
 
 El material teórico se organiza por unidad oficial cuando su relación con el programa de la materia está claramente establecida.
