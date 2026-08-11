@@ -2,28 +2,16 @@
 
 Actividades prácticas y trabajos aplicados de Procesos de Desarrollo de Software II.
 
-[English version](README.md)
+## Contenido
+- `unit-01-design/` — actividades relacionadas con conceptos de diseño de software y análisis de papers.
 
-## Propósito
+## Organización
+El trabajo práctico se organiza por unidades. Cada carpeta de unidad contiene las actividades asociadas a esa parte de la materia.
 
-Esta sección contiene las actividades prácticas asignadas durante la cursada.
+Cada carpeta de actividad puede incluir:
+- la consigna o instrucciones oficiales;
+- una carpeta `solution/` con el trabajo resuelto;
+- un proyecto LaTeX cuando la solución se prepare como documento académico formal.
 
-El trabajo práctico se organiza de acuerdo con las actividades efectivamente proporcionadas por la cátedra, sin crear estructuras que todavía no sean necesarias.
-
-## Estructura Actual
-
-- `activity-01-paper-analysis/`: primera actividad práctica, basada en el análisis de un paper científico asignado
-
-## Criterio de Organización
-
-Cada actividad se almacena en su propio directorio cuando el material justifica una estructura independiente.
-
-Según la actividad, un directorio puede contener:
-
-- consignas o enunciados
-- material de apoyo
-- trabajo realizado por el alumno
-- entregables finales
-- documentación relacionada
-
-Los papers y materiales externos utilizados como referencia permanecen en `../references/` para evitar duplicarlos dentro de la práctica.
+## Política De Compilación
+La salida generada por LaTeX debe quedar en `out/latex/` y no debe versionarse.
