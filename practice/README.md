@@ -2,16 +2,31 @@
 
 Practical activities and applied work for Software Development Process II.
 
-## Contents
-- `unit-01-design/` — activities related to software design concepts and paper analysis.
+[Versión en español](README.es.md)
 
-## Organization
-Practice work is organized by unit. Each unit folder contains the activities associated with that part of the course.
+## Purpose
 
-Each activity folder may include:
-- the official statement or instructions;
-- a `solution/` folder with the completed work;
-- a LaTeX project when the solution is prepared as a formal academic document.
+This section contains the practical work developed throughout the course.
 
-## Build Policy
-Generated LaTeX output must stay inside `out/latex/` and must not be committed.
+Activities are organized by course unit in order to preserve traceability between the theoretical topics, the assignment provided by the course, the work produced by the students, and the corresponding final deliverables.
+
+## Current Structure
+
+- `unit-01-design/`: practical work related to the initial Software Design unit
+
+## Organization Criterion
+
+Practical material follows this general hierarchy when the available material justifies it:
+
+`unit → activity → solution`
+
+Each activity may contain:
+
+- the original assignment or instructions
+- supporting material specific to the activity
+- a `solution/` directory containing the work produced by the students
+- source projects used to generate final deliverables
+
+External academic references, such as scientific papers, remain in the repository's `references/` section instead of being duplicated inside practical activities.
+
+New units and activities are created only when actual course material requires them.
